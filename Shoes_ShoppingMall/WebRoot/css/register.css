@@ -1,0 +1,54 @@
+.divBody {
+	width: 880px;
+	height: 400px;
+	//margin-left: 240px;
+	margin:0 auto;
+	margin-top:30px;
+	
+}
+.divTitle {
+	background: #c3c3c3;
+	border-top: 1px solid #d0d0d0;
+	border-left: 1px solid #d0d0d0;
+	border-right: 1px solid #d0d0d0;
+}
+.divContent {
+	border: 1px solid #d0d0d0;
+	padding-bottom: 20px;
+}
+.spanTitle {
+	line-height: 30px;
+	margin-left: 18px;
+	font-weight: 900;
+}
+.tdTitle {
+	width: 300px;
+	line-height: 50px;
+	text-align: right;
+}
+.tdInput {
+	width: 250px;
+}
+.input {
+	width: 240px;
+	height: 32px;
+	border: 1px solid #7f9db9;
+	padding-left: 10px;
+}
+.tdLabel {
+	width: 300px;
+}
+.submitBtn {
+	width: 240px;
+	height: 40px;
+}
+.error {
+	background: url(../image/error.png) no-repeat;
+	color: #f40000;
+	background-color: #fef2f2;
+	border: 1px solid #ffb8b8;
+	padding:8px 8px 8px 35px;
+	font-size:10pt; 
+	line-height: 32px;
+	
+}
